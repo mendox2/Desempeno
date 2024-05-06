@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "user": "admin",
+      "contrasena": "1234",
+      "id": "74e6"
+    },
+    {
+      "user": "jaime",
+      "contrasena": "1234",
+      "id": "a25f"
+    },
+    {
+      "id": "1231",
+      "user": "coadmin",
+      "contrasena": "626262"
+    },
+    {
+      "id": "fe38",
+      "user": "coadmin",
+      "contrasena": "626262",
+      "correo": "1231"
+    },
+    {
+      "id": "5325",
+      "user": "coadmin",
+      "contrasena": "626262",
+      "correo": "1231"
+    },
+    {
+      "id": "e471",
+      "user": "jairo",
+      "contrasena": "1234",
+      "correo": "mendozi226@gmail.com"
+    },
+    {
+      "id": "dbeb",
+      "user": "jairo",
+      "contrasena": "1234",
+      "correo": "mendozi226@gmail.com"
+    }
+  ],
+  "productos": []
+}
